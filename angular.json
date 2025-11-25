@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "cliniva": {
-      "root": "kk01",
+      "root": "",
       "sourceRoot": "src",
       "projectType": "application",
       "prefix": "app",
